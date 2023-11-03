@@ -15,7 +15,7 @@ This projects classifies image data organised and labelled with csv files under 
 │   ├── train.csv\
 │   ├── val.csv\
 │   ├── test.csv\
-│   ├── labels.csv\
+│   ├── labels.csv
 
 In which case the train.csv, val.csv and test.csv files are organised as such:\
 Filename, label\
