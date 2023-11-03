@@ -22,7 +22,7 @@ Filename, label\
 img1.png, 0\
 img2.png, 1\
 img3.png, 4\
-...\
+...
 
 
 ## Installation
