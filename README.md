@@ -32,7 +32,7 @@ img3.png, 4\
     
 
 ## Acknowledgements
-Special thanks to https://github.com/zergylord and https://github.com/AntreasAntoniou for their Matching Networks implementation. I intend to use some parts for this implementation. More details at https://github.com/zergylord/oneshot and https://github.com/AntreasAntoniou/MatchingNetworks
+Special thanks to https://github.com/zergylord, https://github.com/AntreasAntoniou and https://github.com/gitabcworld for their Matching Networks implementation. I intend to use some parts for this implementation. More details at https://github.com/zergylord/oneshot, https://github.com/AntreasAntoniou/MatchingNetworks and https://github.com/gitabcworld/MatchingNetworks
 
 ## Cite
 ```
