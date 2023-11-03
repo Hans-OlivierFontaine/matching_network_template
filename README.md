@@ -49,4 +49,4 @@ Special thanks to https://github.com/zergylord and https://github.com/AntreasAnt
 
 ## Authors
 
-* Hans-Olivier Fontiane (@aberenguel) [Webpage](https://www.linkedin.com/in/hans-olivier-fontaine-333b28195/)
+* Hans-Olivier Fontiane (@hans-olivierfontaine) [Webpage](https://www.linkedin.com/in/hans-olivier-fontaine-333b28195/)
